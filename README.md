@@ -7,7 +7,7 @@ A Cargo subcommand for recursive download of crates and thier dependencies from 
 `cargo-collect` can be used to download a gzipped archive of given crate, in the exact form that it was uploaded to crates.io.
 
 This can be useful for a variety of things, such as:
- - download the crates to upload to third party registry with [cargo-upload](https://gitlab.com/TalRoni/cargo-upload).
+ - download the crates to upload to third party registry with [cargo-upload](https://github.com/TalRoni/cargo-upload).
  - security auditing of crates (esp. when a crate repository is missing).
  - reproducing a bug that only occurs in uploaded versions of your crate.
 
