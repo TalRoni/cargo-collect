@@ -1,9 +1,9 @@
 [package]
 name = "cargo-collect"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
-repository = "https://gitlab.com/TalRoni/cargo-collect"
-homepage = "https://gitlab.com/TalRoni/cargo-collect"
+repository = "https://github.com/TalRoni/cargo-collect"
+homepage = "https://github.com/TalRoni/cargo-collect"
 description = "Cargo tool for download crate file and its dependencies recursively."
 authors = ["Tal Y Roni <tal.inon.16@gmail.com>"]
 readme = "README.md"
